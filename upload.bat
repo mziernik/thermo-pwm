@@ -1,0 +1,1 @@
+DevKitUploader.exe auto
