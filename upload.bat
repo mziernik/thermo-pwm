@@ -1,2 +1,2 @@
 DevKitUploader.exe auto
-::::
+::
